@@ -1,0 +1,15 @@
+D:\ICS4U\Part 8.5 Hangman Lite\bin\Debug\net6.0\Part 8.5 Hangman Lite.exe
+D:\ICS4U\Part 8.5 Hangman Lite\bin\Debug\net6.0\Part 8.5 Hangman Lite.deps.json
+D:\ICS4U\Part 8.5 Hangman Lite\bin\Debug\net6.0\Part 8.5 Hangman Lite.runtimeconfig.json
+D:\ICS4U\Part 8.5 Hangman Lite\bin\Debug\net6.0\Part 8.5 Hangman Lite.dll
+D:\ICS4U\Part 8.5 Hangman Lite\bin\Debug\net6.0\Part 8.5 Hangman Lite.pdb
+D:\ICS4U\Part 8.5 Hangman Lite\obj\Debug\net6.0\Part 8.5 Hangman Lite.csproj.AssemblyReference.cache
+D:\ICS4U\Part 8.5 Hangman Lite\obj\Debug\net6.0\Part 8.5 Hangman Lite.GeneratedMSBuildEditorConfig.editorconfig
+D:\ICS4U\Part 8.5 Hangman Lite\obj\Debug\net6.0\Part 8.5 Hangman Lite.AssemblyInfoInputs.cache
+D:\ICS4U\Part 8.5 Hangman Lite\obj\Debug\net6.0\Part 8.5 Hangman Lite.AssemblyInfo.cs
+D:\ICS4U\Part 8.5 Hangman Lite\obj\Debug\net6.0\Part 8.5 Hangman Lite.csproj.CoreCompileInputs.cache
+D:\ICS4U\Part 8.5 Hangman Lite\obj\Debug\net6.0\Part 8.5 Hangman Lite.dll
+D:\ICS4U\Part 8.5 Hangman Lite\obj\Debug\net6.0\refint\Part 8.5 Hangman Lite.dll
+D:\ICS4U\Part 8.5 Hangman Lite\obj\Debug\net6.0\Part 8.5 Hangman Lite.pdb
+D:\ICS4U\Part 8.5 Hangman Lite\obj\Debug\net6.0\Part 8.5 Hangman Lite.genruntimeconfig.cache
+D:\ICS4U\Part 8.5 Hangman Lite\obj\Debug\net6.0\ref\Part 8.5 Hangman Lite.dll

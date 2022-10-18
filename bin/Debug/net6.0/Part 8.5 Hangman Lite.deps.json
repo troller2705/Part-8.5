@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Part 8.5 Hangman Lite/1.0.0": {
+        "runtime": {
+          "Part 8.5 Hangman Lite.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Part 8.5 Hangman Lite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
